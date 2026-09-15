@@ -1,10 +1,8 @@
 ### Sam Huffard
 
-Washington and Lee '28, currently studying abroad. Congressional intern in the U.S. Senate, and chapter lead for the Third Serve Foundation at W&L.
+Rising junior at Washington and Lee (Comparative Politics + Business Administration), currently interning in the U.S. Senate and studying abroad this fall. I'm genuinely undecided between politics, business, and AI, so I use building as the way I test that out — right now that means three systems that make real decisions: an AI research desk that proposes trades against a live brokerage account, an agent system built for a congressional office, and a personal assistant that runs my own email and calendar. The rule I hold all three to is the same: the AI proposes, a human or a rule it can't override decides, and I don't call something done until it works reliably enough to show without caveats — not another half-finished demo. I build with Claude as a full development partner, not an autocomplete.
 
-I build small AI systems that do real work — a multi-agent research assistant that proposes trades against a live brokerage account, a personal assistant that manages my email and calendar, and an agent system built for a congressional office. The common thread: the AI proposes, a human (or a deterministic rule the AI can't override) decides, and every decision leaves a signed, auditable trail.
-
-I use Claude as a full development partner — architecture, implementation, and code review — and treat prompting and context management as a real skill, not an afterthought.
+**[Resume (PDF)](Samuel-Huffard-Resume.pdf)**
 
 ## Projects
 
